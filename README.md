@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Alfonso-1701/Blog_Preview](https://github.com/Alfonso-1701/Blog_Preview)
-- Live Site URL: [blogpreview11.netlify.app](blogpreview11.netlify.app)
+- Live Site URL: [https://blogpreview11.netlify.app](https://blogpreview11.netlify.app)
 
 ## My process
 
